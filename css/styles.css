@@ -1,3 +1,7 @@
 #drinks, #under-21 {
   display: none;
 }
+
+#beer {
+  max-width: 40%;
+}
